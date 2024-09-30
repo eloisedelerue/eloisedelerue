@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a student in data science applied to arts and cultures.
+I am a student in data science applied to arts and cultures. You can see my past projects in my [portfolio](https://github.com/eloisedelerue/data-analysis-portfolio).
 
 <!--
 **eloisedelerue/eloisedelerue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
